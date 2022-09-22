@@ -1,0 +1,68 @@
+  <div class="container text-center my-5">
+        <h1 class="font-weight-light">My <span class="text-info">Blogs</span></h1>
+        <div class="lead">I share my views on technologies in these blogs</div>
+        <div class="row my-5 pt-3">
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+
+                    <img class="card-img-top"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNSXmD9ByVeY7uzuGFxZVOlJj_ErWBCtmWw&usqp=CAU"
+                        alt="HTML">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            HTML
+                        </h4>
+                        <p class="card-text">This is my blog about HTML</p>
+                        <a href="C:\Users\Muskan\Documents\HTML.docx" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top"
+                        src="data:image/png;base64,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"
+                        alt="CSS">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            CSS
+                        </h4>
+                        <p class="card-text">This is my blog about CSS</p>
+                        <a href="C:\Users\Muskan\Documents\CSS.docx" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top"
+                        src="data:image/jpeg;base64,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"
+                        alt="SQL">
+                    <div class="card-body">
+                        <h4 class="card-title">
+
+                            SQL
+                        </h4>
+                        <p class="card-text">This is my blog about SQL</p>
+                        <a href="C:\Users\Muskan\Documents\SQL.docx" class="stretched-link"></a>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkSLAbNwFCHh8oW49MJz0qUPZ9O4ATkZ0LQ&usqp=CAU"
+                        alt="BOOTSTRAP">
+                    <div class="card-body">
+                        <h4 class="card-title">
+
+                            BOOTSTRAP
+                        </h4>
+                        <p class="card-text">This is my blog about BOOTSTRAP</p>
+                        <a href="C:\Users\Muskan\Documents\BOOTSTRAP.docx" class="stretched-link"></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
